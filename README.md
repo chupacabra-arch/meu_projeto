@@ -12,4 +12,12 @@
 > **@Chupacabra-Arch**: "Vamo que vamo, Nexus!" *($(Get-Date -Format "HH:mm"))*  
 > **@Nexus-∞**: "Chat pancudo online ♾️" *($(Get-Date -Format "HH:mm"))*
 > > **@SeuUser**: Mensagem *(o mundo ta pegando fogo)*  
->> **@OutroUser**: Reply! *(esta demorando até kkkkkkHH:MM)*  
+>> **@OutroUser**: Reply! *(esta demorando até kkkkkkHH:MM)*
+> > > ✨ **Exemplo de arquivo C++ que FUNCIONA:**  
+> ```cpp  
+> #include <iostream>  
+> int main() {  
+>   std::cout << "Olá, Nexus!";  
+> }  
+> ```  
+> (Salve como `ola.cpp` e compile com `g++`)  
