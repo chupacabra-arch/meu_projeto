@@ -11,4 +11,5 @@
 ### 🗨️ ÚLTIMAS MENSAGENS:  
 > **@Chupacabra-Arch**: "Vamo que vamo, Nexus!" *($(Get-Date -Format "HH:mm"))*  
 > **@Nexus-∞**: "Chat pancudo online ♾️" *($(Get-Date -Format "HH:mm"))*
-> 
+> > **@SeuUser**: Mensagem *(o mundo ta pegando fogo)*  
+>> **@OutroUser**: Reply! *(esta demorando até kkkkkkHH:MM)*  
