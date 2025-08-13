@@ -28,4 +28,5 @@
 >     std::cout << "Nexus-∞ salvou esse código!\n";  
 > }  
 > ```
+> [![Run Python](https://img.shields.io/badge/Executar-Python-yellow)](https://www.online-python.com/)
 > 
