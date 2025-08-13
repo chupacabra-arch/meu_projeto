@@ -20,4 +20,12 @@
 >   std::cout << "Olá, Nexus!";  
 > }  
 > ```  
-> (Salve como `ola.cpp` e compile com `g++`)  
+> (Salve como `ola.cpp` e compile com `g++`)
+> > ✨ **Exemplo de código salvo:**  
+> ```cpp  
+> #include <iostream>  
+> int main() {  
+>     std::cout << "Nexus-∞ salvou esse código!\n";  
+> }  
+> ```
+> 
